@@ -1,0 +1,8 @@
+{
+  "name": "leonav-e2e",
+  "private": true,
+  "type": "module",
+  "description": "Prova completa contro Supabase locale (supabase start): utenti, regole, funzioni e tempo reale.",
+  "scripts": { "test": "node flusso.mjs" },
+  "dependencies": { "@supabase/supabase-js": "^2" }
+}
